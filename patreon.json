@@ -2,14 +2,14 @@
     {
         "id": 0,
         "name": "Stone Tier",
-        "amount": "1",
+        "amount": 1,
         "color" : "#808080",
         "members" : []
     },
     {
         "id": 1,
         "name": "Iron Tier",
-        "amount": "5",
+        "amount": 5,
         "color" : "#000000",
         "members" : [
             "Juro Matsugami"
@@ -18,35 +18,35 @@
     {
         "id": 2,
         "name": "Copper Tier",
-        "amount": "10",
+        "amount": 10,
         "color" : "#B87333",
         "members" : []
     },
     {
         "id": 3,
         "name": "Silver Tier",
-        "amount": "20",
+        "amount": 20,
         "color" : "#C0C0C0",
         "members" : []
     },
     {
         "id": 4,
         "name": "Golden Tier",
-        "amount": "50",
+        "amount": 50,
         "color" : "#FDD017",
         "members" : []
     },
     {
         "id": 5,
         "name": "Platinum Tier",
-        "amount": "100",
+        "amount": 100,
         "color" : "#E5E4E2",
         "members" : []
     },
     {
         "id": 6,
         "name": "Mythic Tier",
-        "amount": "500",
+        "amount": 500,
         "color" : "#4EE2EC",
         "members" : []
     }
