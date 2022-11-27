@@ -1,0 +1,17 @@
+[
+    {
+        "title": "GedheGAN version 0.6.0 Alpha released.",
+        "datetime": {
+            "year": 2022,
+            "month": 11,
+            "day": 21,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "app_id": "com.aurea.gedhegan",
+        "_type_comment": ["release","update","news"],
+        "type": "release",
+        "link": "https://aureafunsoft.itch.io/gedhegan"
+    }
+]
