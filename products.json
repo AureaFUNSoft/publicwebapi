@@ -1,0 +1,185 @@
+{
+    "com.aurea.gedhegan": {
+        "name": "GedheGAN",
+        "type": "Software",
+        "stage": "Alpha",
+        "description": "Image upscaler and quality improver software.",
+        "platforms": ["linux","windows","osx"],
+        "tags": [
+            "Graphics",
+            "Image Editing",
+            "Image Enhancing"
+        ],
+        "latest_version": "0.6.0",
+        "download_links": "https://aureafunsoft.itch.io/gedhegan",
+        "versions": {
+            "0.6.0": {
+
+            }
+        }
+    },
+    "com.aurea.iconyc": {
+        "name": "IConyc",
+        "type": "Software",
+        "stage": "Alpha",
+        "description": "Windows icon (ico) and mac icon (icns) maker from regular image (png,jpg,webp).",
+        "platforms": ["linux","windows","osx"],
+        "tags": [
+            "Graphics",
+            "Icon Maker"
+        ],
+        "latest_version": "0.8.0",
+        "download_links": "https://aureafunsoft.itch.io/iconyc",
+        "versions": {
+            "0.8.0": {
+
+            }
+        }
+    },
+    "com.aurea.feline": {
+        "name": "Feline",
+        "type": "Game",
+        "stage": "Stable",
+        "description": "3D cute puzzle platformer game for android.",
+        "platforms": ["android"],
+        "tags": [
+            "3D",
+            "Puzzle",
+            "Platformer"
+        ],
+        "latest_version": "1.1.0",
+        "download_links": [
+            "https://play.google.com/store/apps/details?id=com.aurea.feline",
+            "https://www.amazon.com/AUREA-FUNSoft-Feline/dp/B087TFPLXM/"
+        ],
+        "versions": {
+            "1.1.0": {
+
+            }
+        }
+    },
+    "com.aurea.feline_free": {
+        "name": "Feline - FREE",
+        "type": "Game",
+        "stage": "Stable",
+        "description": "Free version of Feline, a puzzle platformer android game.",
+        "platforms": ["android"],
+        "tags": [
+            "3D",
+            "Puzzle",
+            "Platformer"
+        ],
+        "latest_version": "1.1.1",
+        "download_links": [
+            "https://play.google.com/store/apps/details?id=com.aurea.feline_free",
+            "https://aureafunsoft.itch.io/feline-free"
+        ],
+        "versions": {
+            "1.1.1": {
+
+            }
+        }
+    },
+    "com.aurea.feline_demo": {
+        "name": "Feline - DEMO",
+        "type": "Game",
+        "stage": "Stable",
+        "description": "Demo version of Feline, a puzzle platformer android game.",
+        "platforms": ["android"],
+        "tags": [
+            "3D",
+            "Puzzle",
+            "Platformer"
+        ],
+        "latest_version": "0.9.2",
+        "download_links": [
+            "https://play.google.com/store/apps/details?id=com.aurea.feline_demo",
+            "https://aureafunsoft.itch.io/feline-demo",
+            "https://www.amazon.com/AUREA-FUNSoft-Feline-DEMO/dp/B084ZJMBK2/"
+        ],
+        "versions": {
+            "0.9.2": {
+
+            }
+        }
+    },
+    "com.aurea.circle": {
+        "name": "Circle",
+        "type": "Game",
+        "stage": "Stable",
+        "description": "A simple 2D puzzle game on android controlled by accelerometer.",
+        "platforms": ["android"],
+        "tags": [
+            "2D",
+            "Puzzle",
+            "Platformer"
+        ],
+        "latest_version": "1.0.1",
+        "download_links": [
+            "https://play.google.com/store/apps/details?id=com.aurea.circle",
+            "https://aureafunsoft.itch.io/circle",
+            "https://www.amazon.com/AUREA-FUNSoft-Circle/dp/B08KNZRLW8/"
+        ],
+        "versions": {
+            "1.0.1": {
+
+            }
+        }
+    },
+    "com.aurea.seadefence": {
+        "name": "Sea Defence",
+        "type": "Game",
+        "stage": "Alpha",
+        "description": "2D shooting side scrolling mobile game.",
+        "platforms": ["android"],
+        "tags": [
+            "2D",
+            "Shooting",
+            "Side scrolling"
+        ],
+        "latest_version": "0.3.0",
+        "download_links": "https://aureafunsoft.itch.io/sea-defence",
+        "versions": {
+            "0.3.0": {
+
+            }
+        }
+    },
+    "com.aurea.valkyrie": {
+        "name": "Valkyrie Blaze",
+        "type": "Game",
+        "stage": "Alpha",
+        "description": "2D shooting side scrolling mobile game.",
+        "platforms": ["android"],
+        "tags": [
+            "2D",
+            "Shooting",
+            "Side scrolling"
+        ],
+        "latest_version": "0.2.0",
+        "download_links": "https://aureafunsoft.itch.io/valkyrie-blaze",
+        "versions": {
+            "0.2.0": {
+
+            }
+        }
+    },
+    "com.aurea.watch1demo": {
+        "name": "W.A.T.C.H. ~Truth Beyond Time~",
+        "type": "Game",
+        "stage": "Beta",
+        "description": "A fantasy visual novel.",
+        "platforms": ["linux","windows","osx","android"],
+        "tags": [
+            "2D",
+            "Visual Novel"
+        ],
+        "latest_version": "0.8.1",
+        "download_links": "https://aureafunsoft.itch.io/watch1",
+        "versions": {
+            "0.8.1": {
+
+            }
+        }
+    }
+}
