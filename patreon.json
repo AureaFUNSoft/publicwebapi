@@ -16,8 +16,7 @@
         "name": "Iron Tier",
         "amount": 5,
         "color" : "#000000",
-        "members" : [],
-        "_members" : [
+        "members" : [
             "Juro Matsugami"
         ]
     },
