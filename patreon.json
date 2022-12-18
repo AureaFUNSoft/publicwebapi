@@ -1,5 +1,10 @@
 [
     {
+        "id": -1,
+        "name": "No member",
+        "empty_message": "No member yet. You can be the first! :)"
+    },
+    {
         "id": 0,
         "name": "Stone Tier",
         "amount": 1,
