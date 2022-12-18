@@ -11,7 +11,8 @@
         "name": "Iron Tier",
         "amount": 5,
         "color" : "#000000",
-        "members" : [
+        "members" : [],
+        "_members" : [
             "Juro Matsugami"
         ]
     },
@@ -34,9 +35,7 @@
         "name": "Golden Tier",
         "amount": 50,
         "color" : "#FDD017",
-        "members" : [
-            "Edi"
-        ]
+        "members" : []
     },
     {
         "id": 5,
