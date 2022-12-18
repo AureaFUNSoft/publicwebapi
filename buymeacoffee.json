@@ -1,5 +1,9 @@
 {
     "price": 3,
-    "buyers": {},
+    "buyers": {
+        "Amuro": 12,
+        "Maxi": 20,
+        "Dan": 7
+    },
     "empty_message": "No one here yet. You can be the first! :)"
 }
