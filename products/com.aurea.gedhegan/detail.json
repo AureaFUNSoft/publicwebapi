@@ -1,0 +1,14 @@
+{
+    "name": "GedheGAN",
+    "type": "Software",
+    "stage": "Alpha",
+    "description": "Image upscaler and quality improver software.",
+    "platforms": ["linux","windows","osx"],
+    "tags": [
+        "Graphics",
+        "Image Editing",
+        "Image Enhancing"
+    ],
+    "latest_version": "0.6.0.alpha",
+    "download_links": "https://aureafunsoft.itch.io/gedhegan"
+}

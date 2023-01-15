@@ -1,23 +1,15 @@
 {
-    "com.aurea.gedhegan": {
-        "name": "GedheGAN",
-        "type": "Software",
-        "stage": "Alpha",
-        "description": "Image upscaler and quality improver software.",
-        "platforms": ["linux","windows","osx"],
-        "tags": [
-            "Graphics",
-            "Image Editing",
-            "Image Enhancing"
-        ],
-        "latest_version": "0.6.0",
-        "download_links": "https://aureafunsoft.itch.io/gedhegan",
-        "versions": {
-            "0.6.0": {
-
-            }
-        }
-    },
+    "ids": [
+        "com.aurea.gedhegan",
+        "com.aurea.iconyc",
+        "com.aurea.feline",
+        "com.aurea.feline_free",
+        "com.aurea.feline_demo",
+        "com.aurea.circle",
+        "com.aurea.seadefence",
+        "com.aurea.valkyrie",
+        "com.aurea.watch1demo"
+    ],
     "com.aurea.iconyc": {
         "name": "IConyc",
         "type": "Software",
