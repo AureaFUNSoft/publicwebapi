@@ -1,7 +1,7 @@
 {
     "name": "GedheGAN",
     "type": "Software",
-    "stage": "Alpha",
+    "stage": "Release",
     "description": "Image upscaler and quality improver software.",
     "platforms": ["linux","windows","osx"],
     "tags": [
