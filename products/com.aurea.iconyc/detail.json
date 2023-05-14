@@ -1,0 +1,12 @@
+{
+    "name": "IConyc",
+    "type": "Software",
+    "stage": "Release",
+    "description": "Software icon generator.",
+    "platforms": ["linux","windows","osx"],
+    "tags": [
+        "Graphics",
+        "Icon",
+        "Software Development"
+    ]
+}
